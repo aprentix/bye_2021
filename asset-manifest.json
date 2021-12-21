@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bye_2021/static/css/main.8d749b3f.css",
+    "main.js": "/bye_2021/static/js/main.dab9f536.js",
+    "static/media/aurora.jpg": "/bye_2021/static/media/aurora.9b9794a0bb45d344587b.jpg",
+    "static/media/primavera.jpg": "/bye_2021/static/media/primavera.d46d97c227ef002b5ab7.jpg",
+    "static/media/verano.jpg": "/bye_2021/static/media/verano.576b00a8cef32d390ff3.jpg",
+    "static/media/winter.jpg": "/bye_2021/static/media/winter.67f60a6a1febadf5cb96.jpg",
+    "static/media/autumn.jpg": "/bye_2021/static/media/autumn.eef9414f8afc1a78c430.jpg",
+    "index.html": "/bye_2021/index.html",
+    "main.8d749b3f.css.map": "/bye_2021/static/css/main.8d749b3f.css.map",
+    "main.dab9f536.js.map": "/bye_2021/static/js/main.dab9f536.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d749b3f.css",
+    "static/js/main.dab9f536.js"
+  ]
+}
